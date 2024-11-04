@@ -7,10 +7,12 @@
 ![mountians](<img src="https://img.goodfon.com/wallpaper/big/0/57/the-long-dark-vyshka-zakat-les.jpg" alt="Wallpaper forest, sunset, mountains, birds, tower, the long dark for mobile  and desktop, section игры, resolution 1920x1080 - download"/>![image](https://github.com/user-attachments/assets/c69b48ac-6f40-4ba0-a2c6-1614fba21521)
 )
 ## Term 1
-## Etch-A-Sketch
+
+###Etch-A-Sketch
 Graphpics project with keypress drawing controls 
 ! [Running App](https://github.com/Margot42/programmingportfolio2024a3/blob/main/src/Sketch.png?raw=true)
 [Source Code](https://github.com/Margot42/programmingportfolio2024a3/blob/main/src/EtchASketchSEP_18.pde)
+
 ###Temp-Converter 
 ! [Running App](https://github.com/Margot42/programmingportfolio2024a3/blob/main/src/Temp%20Converter.png?raw=true)
 [Source Code](https://github.com/Margot42/programmingportfolio2024a3/blob/main/src/Temp_Converter/Temp_Converter.pde)
