@@ -12,3 +12,7 @@ Graphpics project with keypress drawing controls
 ! []()
 []()
 ## Term 2
+###calculator
+! [Running App](https://github.com/Margot42/programmingportfolio2024a3/blob/main/calc.png?raw=true)
+
+[Source Code](https://github.com/Margot42/programmingportfolio2024a3/tree/main/Calculator%202)
