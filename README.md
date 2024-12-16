@@ -24,6 +24,9 @@
 * [Source Code](https://github.com/Margot42/programmingportfolio2024a3/blob/main/src/Temp_Converter/Temp_Converter.pde)
 ## Term 2
 ### calculator
+* calculates simple math (with additional random buttons)
+  ![Screenshot 2024-10-16 at 11 31 09 AM](https://github.com/user-attachments/assets/c58b0234-458e-44bc-9969-57d01a7f5649)
+
 
 * [Running App](https://github.com/Margot42/programmingportfolio2024a3/blob/main/calc.png?raw=true)
 
