@@ -13,7 +13,7 @@
 
 * [Running App](https://github.com/Margot42/programmingportfolio2024a3/blob/main/src/Sketch.png?raw=true)
 * [Source Code](https://github.com/Margot42/programmingportfolio2024a3/blob/main/src/EtchASketchSEP_18.pde)
-)
+
 
 ### Temp-Converter 
 ! [Running App](https://github.com/Margot42/programmingportfolio2024a3/blob/main/src/Temp%20Converter.png?raw=true)
