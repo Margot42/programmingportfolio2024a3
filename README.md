@@ -17,7 +17,9 @@
 
 ### Temp-Converter 
 * Converts F to C
-* 
+  
+  ![Temp Converter](https://github.com/user-attachments/assets/bcf95ea0-b738-470a-87f1-79494309091f)
+
 * [Running App](https://github.com/Margot42/programmingportfolio2024a3/blob/main/src/Temp%20Converter.png?raw=true)
 * [Source Code](https://github.com/Margot42/programmingportfolio2024a3/blob/main/src/Temp_Converter/Temp_Converter.pde)
 ## Term 2
