@@ -2,9 +2,8 @@
 *Projected Graduation in 2026?
 *typing at 40WPM
 * Certifications: Programming State Certification test
-*Learned Scratch code. But wants to learn 'real' coding. 
--Edit Wikipedia Pages 
-'wow'
+* Learned Scratch code. But wants to learn 'real' coding. 
+*-Edit Wikipedia Pages 'wow'
 )
 ## Term 1
 
