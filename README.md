@@ -1,9 +1,9 @@
 # (Programming 1 |Portfolio|2024-2025) Margot Zollinger | contact info: elmargotzollinger@gmail.com 
-*Projected Graduation in 2026?
-*typing at 40WPM
+* Projected Graduation in 2026?
+* typing at 40WPM
 * Certifications: Programming State Certification test
 * Learned Scratch code. But wants to learn 'real' coding. 
-*-Edit Wikipedia Pages 'wow'
+* Edit Wikipedia Pages 'wow'
 )
 ## Term 1
 
