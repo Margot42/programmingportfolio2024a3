@@ -25,6 +25,16 @@
 * [Running App](https://github.com/Margot42/programmingportfolio2024a3/blob/main/src/Temp%20Converter.png?raw=true)
 * [Source Code](https://github.com/Margot42/programmingportfolio2024a3/blob/main/src/Temp_Converter/Temp_Converter.pde)
 
+### Grading App
+
+![Screenshot 2024-12-18 at 11 26 07 AM](https://github.com/user-attachments/assets/7dfd7930-7457-4a65-b512-797eb311d0d9)
+
+
+* Calculates Grade
+*[gradingApp_Sept_13__2.zip](https://github.com/user-attachments/files/18187404/gradingApp_Sept_13__2.zip)
+
+*
+
 ## Term 2 Projects 
 
 
