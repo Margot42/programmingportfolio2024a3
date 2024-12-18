@@ -10,7 +10,7 @@
 
 ### Etch-A-Sketch
 * Graphics project with keypress drawing controls 
-![Screenshot 2024-12-16 at 12 34 27 PM](https://github.com/user-attachments/assets/c0a1212d-b8f8-41c0-bfff-7267d8853f8a)
+  ![Screenshot 2024-12-16 at 12 34 27 PM](https://github.com/user-attachments/assets/c0a1212d-b8f8-41c0-bfff-7267d8853f8a)
 
 * [Running App](https://github.com/Margot42/programmingportfolio2024a3/blob/main/src/Sketch.png?raw=true)
 * [Source Code](https://github.com/Margot42/programmingportfolio2024a3/blob/main/src/EtchASketchSEP_18.pde)
