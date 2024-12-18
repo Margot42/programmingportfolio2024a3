@@ -31,9 +31,9 @@
 
 
 * Calculates Grade
-*[gradingApp_Sept_13__2.zip](https://github.com/user-attachments/files/18187404/gradingApp_Sept_13__2.zip)
+* [Running App](https://github.com/user-attachments/files/18187404/gradingApp_Sept_13__2.zip)
 
-*
+* [Source Code](https://github.com/Margot42/programmingportfolio2024a3/tree/main/src/gradingApp_Sept_13__2)
 
 ## Term 2 Projects 
 
