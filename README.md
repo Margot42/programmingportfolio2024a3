@@ -42,9 +42,10 @@
 
 
 ### SpaceGame
-* A space ship game with lasers and projectiles
+
 ![Screenshot 2024-12-02 at 11 36 52 AM](https://github.com/user-attachments/assets/c1a03927-4f98-4b06-bfc0-3a991ac466fd)
 
+* A space ship game with lasers and projectiles
 * [Source Code](https://github.com/Margot42/programmingportfolio2024a3/tree/main/src/term2/SpaceGameOG)
 
 * [Running App](https://github.com/Margot42/programmingportfolio2024a3/tree/main/src/term2/SpaceGameOG)
