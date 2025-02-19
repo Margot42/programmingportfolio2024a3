@@ -4,10 +4,11 @@
 * typing at 40WPM
 * Certifications: Programming State Certification test
 * Learned Scratch code. But wants to learn 'real' coding. 
+![BlueFlower](https://github.com/user-attachments/assets/e1f1f21a-8f2e-43c5-8350-92fee6b968f5)
+
 * Edit Wikipedia Pages 'wow'
   ![Flower2](https://github.com/user-attachments/assets/a14c6e66-669e-43ab-b129-4ed8f847a324)
-  ![BlueFlower](https://github.com/user-attachments/assets/e1f1f21a-8f2e-43c5-8350-92fee6b968f5)
-
+  
 
   # Term 1
 
