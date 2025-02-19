@@ -5,7 +5,8 @@
 * Certifications: Programming State Certification test
 * Learned Scratch code. But wants to learn 'real' coding. 
 * Edit Wikipedia Pages 'wow'
-)
+* (![Flower2](https://github.com/user-attachments/assets/a14c6e66-669e-43ab-b129-4ed8f847a324))
+
   # Term 1
 
 #### Etch-A-Sketch
