@@ -6,7 +6,7 @@
 * Learned Scratch code. But wants to learn 'real' coding. 
 * Edit Wikipedia Pages 'wow'
 )
-## Term 1
+  # Term 1
 
 #### Etch-A-Sketch
 
@@ -35,7 +35,7 @@
 
 * [Source Code](https://github.com/Margot42/programmingportfolio2024a3/tree/main/src/gradingApp_Sept_13__2)
 
-## Term 2 Projects 
+# Term 2 Projects 
 
 
 #### calculator
@@ -60,11 +60,12 @@
 
 * [Running App](https://github.com/Margot42/programmingportfolio2024a3/tree/main/src/term2/SpaceGameOG)
 
-## Term 3 projects 
+# Term 3 projects 
 
 #### ShapeTester calculator
 * calculates simple shapes
 * [Source Code](https://github.com/Margot42/programmingportfolio2024a3/tree/main/src/ShapeTester.java)
+
 ![Screenshot 2025-02-19 at 12 11 01 PM](https://github.com/user-attachments/assets/96aa7f51-d19e-4bdc-8fba-a5cc0d781c00))
 
 
