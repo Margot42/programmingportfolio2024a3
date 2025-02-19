@@ -59,3 +59,11 @@
 * [Source Code](https://github.com/Margot42/programmingportfolio2024a3/tree/main/src/term2/SpaceGameOG)
 
 * [Running App](https://github.com/Margot42/programmingportfolio2024a3/tree/main/src/term2/SpaceGameOG)
+
+### Term 3 projects 
+
+### ShapeTester calculator
+* calculates simple shapes
+* [Source Code](https://github.com/Margot42/programmingportfolio2024a3/tree/main/src/ShapeTester.java)
+
+
