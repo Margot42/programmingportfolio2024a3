@@ -65,8 +65,6 @@
 ### ShapeTester calculator
 * calculates simple shapes
 * [Source Code](https://github.com/Margot42/programmingportfolio2024a3/tree/main/src/ShapeTester.java)
-
-  
-![Screenshot](![Screenshot 2025-02-19 at 12 11 01 PM](https://github.com/user-attachments/assets/96aa7f51-d19e-4bdc-8fba-a5cc0d781c00))
+![Screenshot 2025-02-19 at 12 11 01 PM](https://github.com/user-attachments/assets/96aa7f51-d19e-4bdc-8fba-a5cc0d781c00))
 
 
