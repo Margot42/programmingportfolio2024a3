@@ -97,7 +97,7 @@ A Processing-based side scroller with animated enemies and intense mechanics.
 ## 🧪 Group Project Placeholder
 
 🚧 *Group Project 2: Coming Soon!*  
-Trying to convince a friend to help me build something (anything). Maybe a calculator that insults you?
+
 
 ---
 
