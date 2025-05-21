@@ -85,7 +85,9 @@ A Processing-based side scroller with animated enemies and intense mechanics.
 - Q to dash
 - Mouse to attack  
 💥 **Mechanics:** Blood meter, flying & ground enemies, health decay.
-[Saunginize FINAL (1).zip](https://github.com/user-attachments/files/20372954/Saunginize.FINAL.1.zip)
+
+**Downloadable Zip- Processing APP**
+📀 [Saunginize FINAL (1).zip](https://github.com/user-attachments/files/20372954/Saunginize.FINAL.1.zip)
 
 🛠️ **Tech Used:** Processing, GifAnimation Library  
 🤝 **Team Project**
