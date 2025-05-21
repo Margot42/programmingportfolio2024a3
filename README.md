@@ -100,9 +100,8 @@ Blood meter drains constantly—attack enemies to recharge it! Face flying mosqu
 
 **Which type of Cereal Killer are you personality quiz**  
 > A test that scres you on how your personality/ likes relates to known serial killers from emojis,food,color,and clothes.
-#### Screen Cover
-<img width="563" alt="Screenshot 2025-03-12 at 12 11 58 PM" src="https://github.com/user-attachments/assets/00f5a161-377a-4f47-966d-5b5eb0ea3836" />
 
+<img width="463" alt="422025720-00f5a161-377a-4f47-966d-5b5eb0ea3836" src="https://github.com/user-attachments/assets/17d997e1-cf7c-44ec-b349-2dccac41348b" />
 
 🧪 [Soruce Code Repo](https://github.com/Yang775923/Cereal-Killers.git)
 
