@@ -72,4 +72,13 @@
 
 ![Screenshot 2025-02-19 at 12 11 01 PM](https://github.com/user-attachments/assets/96aa7f51-d19e-4bdc-8fba-a5cc0d781c00))
 
+  # Term 4
+#### Sanguinize
+
+  <img width="1368" alt="Screenshot 2025-05-21 at 11 21 38 AM" src="https://github.com/user-attachments/assets/a88c4abb-a7fb-40ea-8cfa-f3804f42433a" />
+
+
+* Graphics project with keypress drawing controls 
+* [Running App](https://github.com/Margot42/programmingportfolio2024a3/blob/main/src/Sketch.png?raw=true)
+* [Source Code](https://github.com/Margot42/programmingportfolio2024a3/blob/main/src/EtchASketchSEP_18.pde)
 
