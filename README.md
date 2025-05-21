@@ -76,10 +76,10 @@
 #### Sanguinize
 
   <img width="1368" alt="Screenshot 2025-05-21 at 11 21 38 AM" src="https://github.com/user-attachments/assets/a88c4abb-a7fb-40ea-8cfa-f3804f42433a" />
-** The Repository to the game: 
+* The Repository to the game: 
 * https://github.com/fugu2000/sanguinize.git
 * Uses Processing and the library "GifAnimation"
-* * You rely on blood to live!! Use it for moves and feeding your weapon! The more blood you collect, the higher your final score! Play as Sal, a stranded vampire who needs to send some blood back to the family to redeem himself Fight growing waves of enemies to feed their unending hunger
+* You rely on blood to live!! Use it for moves and feeding your weapon! The more blood you collect, the higher your final score! Play as Sal, a stranded vampire who needs to send some blood back to the family to redeem himself Fight growing waves of enemies to feed their unending hunger
 CONTROLS:WASD for movement,,Space or W to jump,Q to dash,M1 to attack. MECHANICS:Blood: Dealing damage recharges the constantly draining meter, keep it up to avoid death, Mosquitoes: Basic flying enemies, deal less damage than the farmer but attack much faster, Farmer: Basic ground enemies that chase you and trip over themeselves, Leveling: When your blood bar fills, your max blood doubles, starting a slow motion sequence and also increasing your blood drain,Waves: Killing all enemies onscreen exponentially spawns more
   
 
